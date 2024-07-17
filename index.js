@@ -48,7 +48,7 @@ let songs = [
 	title: 'Lemonade',
 	band: 'jeremy passion',
 	src: 'songs/Jopay.mp3',
-	img: 'images/jopay.png'
+	img: 'images/jopay.jpg'
 	},
 	{
 	title: 'Halaga',
