@@ -45,8 +45,8 @@ let index = 0
 
 let songs = [
 	{
-	title: 'Jopay',
-	band: 'Mayonnaise',
+	title: 'Lemonade',
+	band: 'jeremy passion',
 	src: 'songs/Jopay.mp3',
 	img: 'images/jopay.png'
 	},
