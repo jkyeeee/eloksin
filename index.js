@@ -51,8 +51,8 @@ let songs = [
 	img: 'images/jopay.jpg'
 	},
 	{
-	title: 'Halaga',
-	band: 'Parokya ni Edgar',
+	title: 'K.',
+	band: 'Cigs after sex',
 	src: 'songs/Halaga.mp3',
 	img: 'images/parokya.png'
 	},
