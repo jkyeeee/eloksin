@@ -54,7 +54,7 @@ let songs = [
 	title: 'K.',
 	band: 'Cigs after sex',
 	src: 'songs/Halaga.mp3',
-	img: 'images/parokya.jpg'
+	img: 'images/tk.jpg'
 	},
 	{
 	title: 'Alapaap',
